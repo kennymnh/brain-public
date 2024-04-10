@@ -4,7 +4,7 @@ kenny.yu-tsuen@supdevinci-edu.fr
 
 ## Note
 
-This is the public version with missing features for helping others.  
+This is the public version with missing features to help others.  
 For Maxime -> https://github.com/kennymnh/BrAIn
 
 ## 
